@@ -1,0 +1,22 @@
+h2 {
+    color: aliceblue;
+    background-color: blueviolet;
+}
+
+.p1 {
+    color: chartreuse;
+    background-color: chocolate;
+}
+
+.p2 {
+    color: yellow;
+    background-color: gold;
+}
+
+#main {
+    background-color: darkslateblue;
+}
+
+p[draggable="true"] {
+    color: red;
+}
