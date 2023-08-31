@@ -18,3 +18,20 @@ img {
     height: 100px;
     width: 100px;
 }
+
+html {
+    background-color: #4269B0;
+}
+
+body {
+    background-color: black;
+}
+
+
+.amovition {
+    border: solid white;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
